@@ -1,8 +1,8 @@
 ## Hi, I'm Ricardo!
-[![@ IFRS](https://img.shields.io/badge/E--mail%20%40%20IFRS-ricardo.moro%40ifrs.edu.br-%23b23121?style=flat-square&logo=Gmail&logoColor=white)](mailto:ricardo.moro@ifrs.edu.br)
-[![](https://img.shields.io/badge/E--mail-ricardo.moro%40hotmail.com-%23b23121?style=flat-square&logo=Gmail&logoColor=white)](mailto:ricardo.moro@hotmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-moro.ricardo-%233b5998?style=flat-square&logo=Facebook&logoColor=white)](https://fb.com/moro.ricardo)
-[![Instagram](https://img.shields.io/badge/Instagram-ricardomoro85-%23e1306c?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ricardomoro85)
+[![E-mail @ IFRS](https://img.shields.io/badge/%20%40%20IFRS-ricardo.moro%40ifrs.edu.br-%23b23121?style=flat-square&logo=Gmail&logoColor=white)](mailto:ricardo.moro@ifrs.edu.br)
+[![E-mail](https://img.shields.io/badge/-ricardo.moro%40hotmail.com-%23b23121?style=flat-square&logo=Gmail&logoColor=white)](mailto:ricardo.moro@hotmail.com)
+[![Facebook](https://img.shields.io/badge/-moro.ricardo-%233b5998?style=flat-square&logo=Facebook&logoColor=white)](https://fb.com/moro.ricardo)
+[![Instagram](https://img.shields.io/badge/-ricardomoro85-%23e1306c?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ricardomoro85)
 
 Web developer **@** [Instituto Federal do Rio Grande do Sul (IFRS)](https://ifrs.edu.br/) :octocat: https://github.com/IFRS
 
