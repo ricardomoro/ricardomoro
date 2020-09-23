@@ -1,11 +1,10 @@
-# Hi, I'm Ricardo
+## Hi, I'm Ricardo
 
-A web developer @ [IFRS](https://github.com/IFRS)
+A web developer @ [Instituto Federal do Rio Grande do Sul (IFRS)](https://ifrs.edu.br/) :octocat: https://github.com/IFRS
 
 - I’m currently learning **VueJS**
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ricardomoro)
-
+### Languages and Tools
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-original.svg" alt="Wordpress" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -19,9 +18,13 @@ A web developer @ [IFRS](https://github.com/IFRS)
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-plain.svg" alt="Git" width="40" height="40"/>
 </p>
 
+
+### My Github stats
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ricardomoro)](https://github-readme-stats.vercel.app/api?username=ricardomoro)
+
+### Social
 <p align="center">
   <a href="https://twitter.com/ricardomoro85" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ricardomoro85" height="30" width="30" />
