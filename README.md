@@ -1,4 +1,8 @@
 ## Hi, I'm Ricardo!
+[![@ IFRS](https://img.shields.io/badge/E--mail%20%40%20IFRS-ricardo.moro%40ifrs.edu.br-%23b23121?style=flat-square&logo=Gmail&logoColor=white)](mailto:ricardo.moro@ifrs.edu.br)
+[![](https://img.shields.io/badge/E--mail-ricardo.moro%40hotmail.com-%23b23121?style=flat-square&logo=Gmail&logoColor=white)](mailto:ricardo.moro@hotmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-moro.ricardo-%233b5998?style=flat-square&logo=Facebook&logoColor=white)](https://fb.com/moro.ricardo)
+[![Instagram](https://img.shields.io/badge/Instagram-ricardomoro85-%23e1306c?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ricardomoro85)
 
 Web developer **@** [Instituto Federal do Rio Grande do Sul (IFRS)](https://ifrs.edu.br/) :octocat: https://github.com/IFRS
 
@@ -30,13 +34,3 @@ Web developer **@** [Instituto Federal do Rio Grande do Sul (IFRS)](https://ifrs
 ### My Github stats
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ricardomoro)](https://github-readme-stats.vercel.app/api?username=ricardomoro)
-
-### How to reach me
-
-[![E-mail @ IFRS](https://img.shields.io/badge/E--mail%20%40%20IFRS-ricardo.moro%40ifrs.edu.br-%23b23121)](mailto:ricardo.moro@ifrs.edu.br)
-
-[![E-mail](https://img.shields.io/badge/E--mail-ricardo.moro%40hotmail.com-%23b23121)](mailto:ricardo.moro@hotmail.com)
-  
-[![Facebook](https://img.shields.io/badge/Facebook-moro.ricardo-%233b5998)](https://fb.com/moro.ricardo)
-  
-[![Instagram](https://img.shields.io/badge/Instagram-ricardomoro85-%23e1306c)](https://instagram.com/ricardomoro85)
