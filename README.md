@@ -14,7 +14,7 @@ Web developer **@** [Instituto Federal do Rio Grande do Sul (IFRS)](https://ifrs
 - Frontend
 - I’m currently learning **VueJS** :slightly_smiling_face:
 
-### Languages and Tools
+### Technology Stack
 
 <p>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-original.svg" alt="Wordpress" width="40" height="40"/>
@@ -31,6 +31,6 @@ Web developer **@** [Instituto Federal do Rio Grande do Sul (IFRS)](https://ifrs
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
 </p>
 
-### My Github stats
+<hr>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ricardomoro)](https://github-readme-stats.vercel.app/api?username=ricardomoro)
