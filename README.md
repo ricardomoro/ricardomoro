@@ -12,23 +12,12 @@ Web developer **@** [Instituto Federal do Rio Grande do Sul (IFRS)](https://ifrs
 - Accessibility
 - Web
 - Frontend
-- I’m currently learning **VueJS** :slightly_smiling_face:
+- I’m currently learning **VueJS 3** and **Nuxt 3** :slightly_smiling_face:
 
 ### Technology Stack
 
-<p>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-original.svg" alt="Wordpress" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="Gulp" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,vue,webpack,php,mysql,wordpress,bash,docker,vscode,linux" />
 </p>
 
 <hr>
