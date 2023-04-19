@@ -4,7 +4,7 @@
 [![Facebook](https://img.shields.io/badge/-moro.ricardo-%233b5998?style=flat-square&logo=Facebook&logoColor=white)](https://fb.com/moro.ricardo)
 [![Instagram](https://img.shields.io/badge/-ricardomoro85-%23e1306c?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ricardomoro85)
 
-Web developer **@** [Instituto Federal do Rio Grande do Sul (IFRS)](https://ifrs.edu.br/) :octocat: https://github.com/IFRS
+Web developer **@** [<img src="https://ifrs.edu.br/wp-content/themes/ifrs-portal-theme/favicons/favicon-32x32.png" width="16" height="16" />Instituto Federal do Rio Grande do Sul (IFRS)](https://ifrs.edu.br/) :octocat: https://github.com/IFRS
 
 ### Interests
 
