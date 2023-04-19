@@ -16,7 +16,7 @@ Web developer **@** [Instituto Federal do Rio Grande do Sul (IFRS)](https://ifrs
 
 ### Technology Stack
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,vue,webpack,php,mysql,wordpress,bash,docker,vscode,linux" />
 </p>
 
